@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "nodemailer": "^6.9.6",
+    "pdfmake": "^0.2.7",
+    "webfonts": "^0.1.1"
+  }
+}
